@@ -1,18 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Simon make yourself comfortable
 
-<!--
-**SzymonWalasz/SzymonWalasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on become softwere tester 
+- 🌱 I’m currently learning automation testing/ manual testing/ programing in Java 
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with find good sources of knowlage
+- 💬 Ask me about what you ever want
+- 📫 How to reach me: send me a massage on my Fecbook or messanger
+- 😄 Pronouns: Male
+- ⚡ Fun fact: I like warhammer 40 k & FTB
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<img src="https://camo.githubusercontent.com/5f4d1871cd355d12938758e7f7c0bfd8ab2ae9cc395b7aa01db27a4abd090661/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d736f6c6172697a65642d6461726b" alt="solarized-dark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anuraghazra&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=solarized-dark" style="max-width: 100%;">
