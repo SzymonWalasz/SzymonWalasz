@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Simon make yourself comfortable</h1>
+<h1 align="center">Hi 👋 I'm Simon make yourself comfortable</h1>
 <h3 align="center">A normal guy who likes programing and learn new things.</h3>
-
-### Hi there 👋 I'm Simon make yourself comfortable
 
 - 🔭 I’m currently working on become softwere tester 
 - 🌱 I’m currently learning automation testing/ manual testing/ programing in Java 
