@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Simon make yourself comfortable</h1>
+<h3 align="center">A normal guy who likes programing and learn new things.</h3>
+
 ### Hi there 👋 I'm Simon make yourself comfortable
 
 - 🔭 I’m currently working on become softwere tester 
@@ -8,9 +11,6 @@
 - 📫 How to reach me: send me a massage on my Fecbook or messanger
 - 😄 Pronouns: Male
 - ⚡ Fun fact: I like warhammer 40 k & FTB
-
-<h1 align="center">Hi 👋, I'm Simon make yourself comfortable</h1>
-<h3 align="center">A normal guy who likes programing and learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </p>
 
