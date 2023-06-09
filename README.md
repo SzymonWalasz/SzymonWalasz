@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I like warhammer 40 k & FTB
 
 <!--Próba zrobienia animowanego zdjecia w tle-->
-<image src=”eletric.gif”>
+<image src=”/home/szymonwal/Documents/GitRepositorys/SzymonWalasz/electric.gif”>
   
   
   
