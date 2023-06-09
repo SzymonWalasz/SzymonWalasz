@@ -2,7 +2,8 @@
 
 ![image](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/da7b6462-9524-4933-a670-b85705b2b298)
 
-
+ <h1>Animated Image</h1>
+   <img src="![image](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/da7b6462-9524-4933-a670-b85705b2b298)">
 
 
 
