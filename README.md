@@ -12,6 +12,9 @@
 
 <!--Próba zrobienia animowanego zdjecia w tle-->
 <image src=”eletric.gif”>
+  
+  
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </p>
 
