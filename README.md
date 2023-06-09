@@ -1,3 +1,11 @@
+<!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
+
+![image](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/517e3f28-7d55-4723-91ae-21d2434f8ebe)
+
+
+
+
+
 <h1 align="center">Hi 👋 I'm Simon make yourself comfortable</h1>
 <h3 align="center">A normal guy who likes programing and learn new things.</h3>
 
@@ -11,7 +19,12 @@
 - ⚡ Fun fact: I like warhammer 40 k & FTB
 
 <!--Próba zrobienia animowanego zdjecia w tle-->
-<image src=”eletric.gif”>
+<a href=""/a>
+<image src=”/home/szymonwal/Documents/GitRepositorys/SzymonWalasz/electric.gif”>
+  
+  
+
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </p>
 
