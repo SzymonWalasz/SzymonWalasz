@@ -1,6 +1,7 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
 
-![image](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/517e3f28-7d55-4723-91ae-21d2434f8ebe)
+![image](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/da7b6462-9524-4933-a670-b85705b2b298)
+
 
 
 
