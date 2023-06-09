@@ -1,6 +1,6 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
 
-<p align="left"> <img src="![image](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/f8b244fd-698b-4678-9196-67ea30735aed)
+<p align="left"> <img src="https://github.com/SzymonWalasz/SzymonWalasz/blob/main/electric.gif?raw=true
 " /> </p>
 
  <h1>Animated Image</h1>
