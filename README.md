@@ -1,3 +1,10 @@
+<!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
+
+https://i.pinimg.com/originals/01/71/5d/01715d903f85b151035284ed601fdfd0.gif
+
+
+
+
 <h1 align="center">Hi 👋 I'm Simon make yourself comfortable</h1>
 <h3 align="center">A normal guy who likes programing and learn new things.</h3>
 
@@ -14,7 +21,7 @@
 <a href=""/a>
 <image src=”/home/szymonwal/Documents/GitRepositorys/SzymonWalasz/electric.gif”>
   
-  ![image](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/4ad93273-59b5-4414-8921-6d3373a0fb61)
+  
 
   
 
