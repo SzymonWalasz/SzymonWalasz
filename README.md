@@ -10,6 +10,9 @@
 - 😄 Pronouns: Male
 - ⚡ Fun fact: I like warhammer 40 k & FTB
 
+<!--Próba zrobienia animowanego zdjecia w tle-->
+<image src=”eletric.gif”>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szymonwalasz" alt="szymonwalasz" /></a> </p>
