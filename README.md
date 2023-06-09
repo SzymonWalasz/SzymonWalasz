@@ -11,9 +11,11 @@
 - ⚡ Fun fact: I like warhammer 40 k & FTB
 
 <!--Próba zrobienia animowanego zdjecia w tle-->
+<a href=""/a>
 <image src=”/home/szymonwal/Documents/GitRepositorys/SzymonWalasz/electric.gif”>
   
-  
+  ![image](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/4ad93273-59b5-4414-8921-6d3373a0fb61)
+
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </p>
