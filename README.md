@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi 👋 I'm Simon make yourself comfortable</h1>
 <h3 align="center">A normal guy who likes programing and learn new things.</h3>
-<img align="right" alt="coding" widht="400" src="https://pl.pinterest.com/pin/566186984400426124/"/>
+<img align="right" alt="coding" widht="400" src="https://pl.pinterest.com/pin/566186984400426124/">
 
 - 🔭 I’m currently working on become softwere tester 
 - 🌱 I’m currently learning automation testing/ manual testing/ programing in Java 
