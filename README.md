@@ -15,7 +15,7 @@
 - 📫 How to reach me: send me a massage on my Fecbook or messanger
 - ⚡ Fun fact: I'm also interested about eletrics 
 
-
+<br />
 
 <!--Próba zrobienia animowanego zdjecia w tle-->
 
