@@ -1,5 +1,7 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
-<img align="center" alt="coding" height="350" widht="600" src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif">
+</center>
+<img align="center" alt="coding" height="300" widht="800" src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif">
+</center>
 <!--header-->
 
 <h1 align="center">Hi 👋 I'm Simon make yourself comfortable</h1>
