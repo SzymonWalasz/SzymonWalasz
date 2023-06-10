@@ -10,10 +10,10 @@
 <h3 align="center">A normal guy who likes programing and learn new things.</h3>
 
 <!--połączenie idzie z strony powinno iść z komputera-->
+ <img align="right" height="320" alt="coding" widht="100" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 - 🔭 I’m currently working on my programing skills
 - 🌱 I’m currently learning eletrics/programing
 - 👯 I’m looking to collaborate on open source projects
-  <img align="right" height="300" alt="coding" widht="100" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 - 🤔 I’m looking for help with find good sources of knowlage
 - 💬 Ask me about what ever you want
 - 📫 How to reach me: send me a massage on my Fecbook or messanger
