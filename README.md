@@ -1,14 +1,23 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
 <h1 align="center"> Hello work in progres on the greate Git profile</h1>
 
-<div align="center"> <img align="center" src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif"> </div>
+<div align="center"> <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif"> </div>
 
 <!--<div>  <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif" > </div>
 </center>
 header-->
 
-<h1 align="center">Hi 👋 I'm Simon make yourself comfortable</h1>
-<h3 align="center">A normal guy who likes programing and learn new things.</h3>
+
+
+<br />
+ 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=30F700&width=900&height=100&lines=Hello+there+make+yourself+comfortable;I'm+just+a+normal+guy+who+likes+technology" alt="Typing SVG" /></a>
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </p>
 
 <!--połączenie idzie z strony powinno iść z komputera-->
 - 🔭 I’m currently working on my programing skills
@@ -28,7 +37,8 @@ header-->
 
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szymonwalasz" alt="szymonwalasz" /></a> </p>
 
