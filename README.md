@@ -1,5 +1,8 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
-<h1 align="center"> Hello work in progres on the greate Git profile</h1>
+
+
+
+
 
 <div align="center"> <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif"> </div>
 
@@ -59,5 +62,7 @@ header-->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=szymonwalasz&show_icons=true&theme=merko&title_color=04ff00&text_color=00ff11&hide_border=true&locale=en" alt="szymonwalasz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szymonwalasz&theme=dark" alt="szymonwalasz" /></p>
+
+
 
 
