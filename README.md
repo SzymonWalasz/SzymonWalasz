@@ -1,7 +1,7 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
 <img align="center" alt="coding" height="350" widht="600" src="https://thumbs.gfycat.com/TestyDisloyalChinchilla-size_restricted.gif">
 
-
+  <img align="right" alt="Coding" width="400" src="/home/szymonwal/Pictures/01715d903f85b151035284ed601fdfd0.gif">
  
 
 
