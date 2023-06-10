@@ -17,7 +17,7 @@
 - 💬 Ask me about what ever you want
 - 📫 How to reach me: send me a massage on my Fecbook or messanger
 - ⚡ Fun fact: I'm also interested about eletrics 
-<img align="left" height="100" alt="coding" widht="100" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+<img align="right" height="100" alt="coding" widht="100" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
 <!--Próba zrobienia animowanego zdjecia w tle-->
 
