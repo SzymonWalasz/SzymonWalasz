@@ -10,14 +10,14 @@
 <h3 align="center">A normal guy who likes programing and learn new things.</h3>
 
 <!--połączenie idzie z strony powinno iść z komputera-->
-
+<img align="right" height="80" alt="coding" widht="40" src="https://i.pinimg.com/originals/01/71/5d/01715d903f85b151035284ed601fdfd0.gif">
 - 🔭 I’m currently working on my programing skills
 - 🌱 I’m currently learning eletrics/programing
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with find good sources of knowlage
 - 💬 Ask me about what ever you want
 - 📫 How to reach me: send me a massage on my Fecbook or messanger
-- ⚡ Fun fact: I'm also interested about eletrics <img align="right" height="80" alt="coding" widht="40" src="https://i.pinimg.com/originals/01/71/5d/01715d903f85b151035284ed601fdfd0.gif">
+- ⚡ Fun fact: I'm also interested about eletrics 
 
 <!--Próba zrobienia animowanego zdjecia w tle-->
 
