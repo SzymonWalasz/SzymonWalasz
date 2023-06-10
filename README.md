@@ -1,8 +1,10 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
 </center>
-<img align="center" alt="coding" height="300" widht="800" src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif">
+<div  align="center"  widht="700" > <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif"> </div>
+
+<!--<div>  <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif" > </div>
 </center>
-<!--header-->
+header-->
 
 <h1 align="center">Hi 👋 I'm Simon make yourself comfortable</h1>
 <h3 align="center">A normal guy who likes programing and learn new things.</h3>
