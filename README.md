@@ -57,6 +57,9 @@ header-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymonwalasz&show_icons=true&theme=merko&title_color=00ff11&text_color=00ff11&hide_border=true&locale=en&layout=compact" alt="szymonwalasz" /></p>
 
+
+
+<img align="right" height="210" alt="coding" widht="150" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 <br />
 <br />
 <br />
