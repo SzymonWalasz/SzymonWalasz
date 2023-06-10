@@ -1,5 +1,5 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
-<img align="center" alt="coding" height="350" widht="600" src="">
+<img align="center" alt="coding" height="350" widht="600" src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif">
 <!--header-->
 
 <h1 align="center">Hi 👋 I'm Simon make yourself comfortable</h1>
@@ -28,15 +28,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szymonwalasz" alt="szymonwalasz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
 
 
 
