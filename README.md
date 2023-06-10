@@ -1,5 +1,5 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
-<img align="center" alt="coding" height="500" widht="600" src="https://i.pinimg.com/originals/01/71/5d/01715d903f85b151035284ed601fdfd0.gif">
+<img align="center" alt="coding" height="200" widht="600" src="https://i.pinimg.com/originals/01/71/5d/01715d903f85b151035284ed601fdfd0.gif">
 
 
  
