@@ -7,8 +7,8 @@
 
 <!--połączenie idzie z strony powinno iść z komputera-->
 - 🔭 I’m currently working on my programing skills
+  <img align="right" height="210" alt="coding" widht="150" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 - 🌱 I’m currently learning eletrics/programing
-    <img align="right" height="220" alt="coding" widht="150" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with find good sources of knowlage
 - 💬 Ask me about what ever you want
