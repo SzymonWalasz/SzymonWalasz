@@ -58,9 +58,20 @@ header-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymonwalasz&show_icons=true&theme=merko&title_color=00ff11&text_color=00ff11&hide_border=true&locale=en&layout=compact" alt="szymonwalasz" /></p>
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=szymonwalasz&show_icons=true&theme=merko&title_color=04ff00&text_color=00ff11&hide_border=true&locale=en" alt="szymonwalasz" /></p>
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szymonwalasz&theme=dark" alt="szymonwalasz" /></p>
 
 
