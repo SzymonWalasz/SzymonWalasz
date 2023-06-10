@@ -22,6 +22,7 @@ header-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </p>
 
+
 <!--połączenie idzie z strony powinno iść z komputera-->
 - 🔭 I’m currently working on my programing skills
   <img align="right" height="210" alt="coding" widht="150" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
