@@ -1,6 +1,6 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
 
-<div> <img align="center" height="600" widht="1000" src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif"> </div>
+<div> <img align="center" height="500" widht="1000" src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif"> </div>
 
 <!--<div>  <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif" > </div>
 </center>
