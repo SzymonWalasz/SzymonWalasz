@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://github.com/SzymonWalasz/SzymonWalasz/blob/main/electric.gif?raw=true
 " /> </p>
 
- <h1>Animated Image</h1>
-   <img src="![image](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/da7b6462-9524-4933-a670-b85705b2b298)">
-
+ 
 
 
 
