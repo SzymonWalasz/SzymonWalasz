@@ -1,10 +1,6 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
-<img align="center" alt="coding" height="350" widht="600" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
-
-  <img align="right" alt="Coding" width="400" src="/home/szymonwal/Pictures/01715d903f85b151035284ed601fdfd0.gif">
- 
-
-
+<img align="center" alt="coding" height="350" widht="600" src="">
+<!--header-->
 
 <h1 align="center">Hi 👋 I'm Simon make yourself comfortable</h1>
 <h3 align="center">A normal guy who likes programing and learn new things.</h3>
@@ -12,12 +8,13 @@
 <!--połączenie idzie z strony powinno iść z komputera-->
 - 🔭 I’m currently working on my programing skills
 - 🌱 I’m currently learning eletrics/programing
-   <img align="right" height="320" alt="coding" widht="100" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+    <img align="right" height="320" alt="coding" widht="150" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with find good sources of knowlage
 - 💬 Ask me about what ever you want
 - 📫 How to reach me: send me a massage on my Fecbook or messanger
 - ⚡ Fun fact: I'm also interested about eletrics 
+
 
 
 <!--Próba zrobienia animowanego zdjecia w tle-->
