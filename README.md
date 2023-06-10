@@ -11,14 +11,13 @@
 
 <!--połączenie idzie z strony powinno iść z komputera-->
 
-- 🔭 I’m currently working on become softwere tester 
-- 🌱 I’m currently learning automation testing/ manual testing/ programing in Java 
+- 🔭 I’m currently working on my programing skills
+- 🌱 I’m currently learning eletrics/programing
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with find good sources of knowlage
-- 💬 Ask me about what you ever want
+- 💬 Ask me about what ever you want
 - 📫 How to reach me: send me a massage on my Fecbook or messanger
-- 😄 Pronouns: Male
-- ⚡ Fun fact: I like warhammer 40 k & FTB
+- ⚡ Fun fact: I'm also interested about eletrics <img align="right" alt="coding" widht="40" src="https://i.pinimg.com/originals/01/71/5d/01715d903f85b151035284ed601fdfd0.gif">
 
 <!--Próba zrobienia animowanego zdjecia w tle-->
 
