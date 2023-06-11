@@ -1,5 +1,7 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
 
+<!--Time to make this code better witch art-->
+
 <div align="center"> <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif"> </div>
 
 <!--<div>  <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif" > </div>
@@ -21,10 +23,7 @@ header-->
 <a align="left"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="szymonwalasz" /> </a>
 <a align="left"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="szymonwalasz" /> </a> 
  </div>
-https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white
-https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white
 
-https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 
 <p align="left" <img src="https://github.com/ellerbrock/open-source-badges
 " alt="szymonwalasz" /> </p>
