@@ -14,7 +14,7 @@ header-->
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=30F700&width=900&height=100&lines=~+Hello+there+make+yourself+comfortable" alt="Typing SVG" /></a>
 
 <!--quest count-->
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
+
 
  <div align="justify">
  <a align="left"> <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" alt="szymonwalasz" /> </a>
