@@ -95,7 +95,7 @@ https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbru
 <!--Github trophy but better-->
 
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=SzymonWalasz&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
