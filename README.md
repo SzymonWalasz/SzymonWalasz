@@ -1,41 +1,48 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
 
-
-
-
-
 <div align="center"> <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif"> </div>
 
 <!--<div>  <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif" > </div>
 </center>
 header-->
-
-
-
 <br />
- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=30F700&width=900&height=100&lines=~+Hello+there+make+yourself+comfortable" alt="Typing SVG" /></a>
 
+<!--first writing-->
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=30F700&width=900&height=100&lines=~+Hello+there+make+yourself+comfortable" alt="Typing SVG" /></a>
 
+<!--quest count-->
 
+ <div align="justify">
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </a>
+ <br />
+<a align="left"> <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="szymonwalasz" /> </a> 
+<a align="left"> <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="szymonwalasz" /> </a>
+<a align="left"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="szymonwalasz" /> </a>
+<a align="left"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="szymonwalasz" /> </a>
+<a align="left"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="szymonwalasz" /> </a> 
+ </div>
+https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white
+https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white
 
+https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </p>
+<p align="left" <img src="https://github.com/ellerbrock/open-source-badges
+" alt="szymonwalasz" /> </p>
+
 
 
 <!--połączenie idzie z strony powinno iść z komputera-->
 - 🔭 I’m currently working on my programing skills
   <img align="right" height="210" alt="coding" widht="150" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 - 🌱 I’m currently learning eletrics/programing
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with find good sources of knowlage
-- 💬 Ask me about what ever you want
+- 👯 I’m looking to collaborate on open source projects and contribute to them
+- 🤔 I’m looking for help with to finde good sources of knowlage
 - 📫 How to reach me: send me a massage on my Fecbook or messanger
 - ⚡ Fun fact: I'm also interested about eletrics 
 
 <br />
 
-<!--Próba zrobienia animowanego zdjecia w tle-->
+
 
   
 
@@ -44,7 +51,9 @@ header-->
 
 
 <!--Trophy-->
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szymonwalasz" alt="szymonwalasz" /></a> </p>-->
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szymonwalasz" alt="szymonwalasz" /></a> </p>
+-->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -60,7 +69,7 @@ header-->
 
 
 
-<img align="right" height="210" alt="coding" widht="150" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
+
 <br />
 <br />
 <br />
