@@ -17,7 +17,7 @@ header-->
 
 
  <div align="justify">
- <a align="left"> <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" alt="szymonwalasz" /> </a>
+<!-- <a align="left"> <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" alt="szymonwalasz" /> </a> -->
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </a>
  <br />
 <a align="left"> <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="szymonwalasz" /> </a> 
