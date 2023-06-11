@@ -1,4 +1,5 @@
 <!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
+<!--Work in progress-->
 
 <!--Time to make this code better witch art-->
 
@@ -13,8 +14,10 @@ header-->
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=30F700&width=900&height=100&lines=~+Hello+there+make+yourself+comfortable" alt="Typing SVG" /></a>
 
 <!--quest count-->
+https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
 
  <div align="justify">
+ <a align="left"> <img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" alt="szymonwalasz" /> </a>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=szymonwalasz&label=Profile%20views&color=29b40e&style=flat" alt="szymonwalasz" /> </a>
  <br />
 <a align="left"> <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="szymonwalasz" /> </a> 
@@ -87,5 +90,26 @@ header-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szymonwalasz&theme=dark" alt="szymonwalasz" /></p>
 
 
+
+<!--
+<!--Github trophy but better-->
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SzymonWalasz&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<!--Trophy-->
+<!--
+<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=szymonwalasz" alt="szymonwalasz" /></a> </p>
+-->
+
+<!--Trophy-->
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szymonwalasz-ma&theme=matrix" alt="szymonwalasz" /></a> </p>
+-->
 
 
