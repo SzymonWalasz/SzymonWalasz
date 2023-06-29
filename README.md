@@ -1,7 +1,6 @@
 
 
 
-<div>  <img src="" alt="prąd"> </div>
 
 
 <br />
