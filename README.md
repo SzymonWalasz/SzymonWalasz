@@ -1,7 +1,5 @@
 
 
-<div align="center"> <img src="![electric](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/6910d7d5-1cd5-4187-8b8e-65666962d911) alt="prąð"
-"> </div>
 
 <div>  <img src="" alt="prąd"> </div>
 
