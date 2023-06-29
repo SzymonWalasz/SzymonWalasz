@@ -1,13 +1,11 @@
-<!--First photo for WoW!!! efect (I know it's actually make by wrong metchod)-->
-<!--Work in progress-->
+![electric](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/f24737aa-c7d0-4c87-baf1-4e2b7aa824b3)<!--Work in progress-->
 
-<!--Time to make this code better witch art-->
+<div align="center"> <img src="![electric](https://github.com/SzymonWalasz/SzymonWalasz/assets/121094249/6910d7d5-1cd5-4187-8b8e-65666962d911) alt="prąð"
+"> </div>
 
-<div align="center"> <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif"> </div>
+<div>  <img src="" alt="prąd"> </div>
 
-<!--<div>  <img src="https://media.tenor.com/UtSahOVYvDQAAAAC/banner-discord.gif" > </div>
-</center>
-header-->
+
 <br />
 
 <!--first writing-->
